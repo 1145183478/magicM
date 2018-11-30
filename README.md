@@ -1,0 +1,2 @@
+# magicM
+This is test
